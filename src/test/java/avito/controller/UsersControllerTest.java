@@ -17,7 +17,7 @@ import static org.mockito.ArgumentMatchers.anyString;
 import static org.mockito.Mockito.*;
 
 /**
- * @author rvorozheikin
+ * @author gturumtaev
  */
 @ExtendWith(MockitoExtension.class)
 class UsersControllerTest {

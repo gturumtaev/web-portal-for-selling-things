@@ -15,7 +15,7 @@ import static org.mockito.ArgumentMatchers.anyString;
 import static org.mockito.Mockito.when;
 
 /**
- * @author rvorozheikin
+ * @author gturumtaev
  */
 @ExtendWith(MockitoExtension.class)
 class UserDetailsServiceTest {
