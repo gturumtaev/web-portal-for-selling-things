@@ -16,7 +16,7 @@ import static org.mockito.Mockito.doNothing;
 import static org.mockito.Mockito.when;
 
 /**
- * @author rvorozheikin
+ * @author gturumtaev
  */
 @ExtendWith(MockitoExtension.class)
 class AuthServiceTest {

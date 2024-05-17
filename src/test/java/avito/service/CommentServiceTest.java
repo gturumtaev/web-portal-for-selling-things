@@ -22,7 +22,7 @@ import static org.mockito.ArgumentMatchers.anyInt;
 import static org.mockito.Mockito.*;
 
 /**
- * @author rvorozheikin
+ * @author gturumtaev
  */
 @ExtendWith(MockitoExtension.class)
 class CommentServiceTest {

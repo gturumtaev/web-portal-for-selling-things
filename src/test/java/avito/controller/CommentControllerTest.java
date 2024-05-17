@@ -27,7 +27,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.*;
 
 /**
- * @author rvorozheikin
+ * @author gturumtaev
  */
 @ExtendWith(MockitoExtension.class)
 class CommentControllerTest {
